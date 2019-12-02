@@ -1,0 +1,1 @@
+web interface which allows a user to upload any file (pdf, html, txt) and shows a nice word tag cloud image based on the text in the files.
